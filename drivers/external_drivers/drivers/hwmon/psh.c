@@ -81,8 +81,6 @@ struct psh_plt_priv {
 
 static int psh_recovery = 0;
 
-
-
 int do_psh_recovery(struct psh_ia_priv *psh_ia_data)
 {
 	struct psh_plt_priv *plt_priv =
